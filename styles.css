@@ -1,0 +1,26 @@
+/* Globales*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&family=Yanone+Kaffeesatz:wght@400;700&display=swap');
+
+
+
+
+html {
+    font-size: 68.5%; /* 1rem = 10px*/
+    box-sizing: border-box;
+}
+
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;}
+
+
+.bienvenida{
+    height: 90vh;
+    width: 100%;
+    background-image: url(./img/Create\ a\ dark\ and\ eerie\ design\ featuring\ a\ realistic\ skull\ lying\ on\ a\ tombstone\ in\ a\ cemetery.png);
+    background-position: center center;
+    background-size: cover;
+    
+}
